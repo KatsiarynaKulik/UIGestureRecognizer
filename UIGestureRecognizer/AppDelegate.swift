@@ -2,7 +2,8 @@
 //  AppDelegate.swift
 //  UIGestureRecognizer
 //
-//  Created by Екатерина  on 28.03.23.
+//  Created by Katsiaryna Kulik  on 28.03.23.
+//  Copyright © 2023 Katsiaryna Kulik. All rights reserved.
 //
 
 import UIKit
